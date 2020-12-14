@@ -1,5 +1,5 @@
 # Least Action Daynamics
-This is the code associated with the pape ["LEAD: Least-Action Dynamics for Min-Max Optimization"](https://arxiv.org/pdf/2010.13846.pdf). If you find this code useful please cite us:
+This is the code associated with the paper ["LEAD: Least-Action Dynamics for Min-Max Optimization"](https://arxiv.org/pdf/2010.13846.pdf). If you find this code useful please cite us:
 
 ```
 @article{hemmat2020LEAD,
