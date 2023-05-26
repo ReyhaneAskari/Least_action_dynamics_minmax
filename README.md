@@ -1,4 +1,4 @@
-#LEAD: Min-Max Optimization from a Physical Perspective
+# LEAD: Min-Max Optimization from a Physical Perspective
 This is the code associated with the paper ["LEAD: Min-Max Optimization from a Physical Perspective"](https://openreview.net/forum?id=vXSsTYs6ZB). If you find this code useful please cite us:
 
 ```
