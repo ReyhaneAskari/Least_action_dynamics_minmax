@@ -1,5 +1,5 @@
-# Least Action Daynamics
-This is the code associated with the paper ["LEAD: Least-Action Dynamics for Min-Max Optimization"](https://openreview.net/forum?id=vXSsTYs6ZB). If you find this code useful please cite us:
+#LEAD: Min-Max Optimization from a Physical Perspective
+This is the code associated with the paper ["LEAD: Min-Max Optimization from a Physical Perspective"](https://openreview.net/forum?id=vXSsTYs6ZB). If you find this code useful please cite us:
 
 ```
 @article{hemmat2020LEAD,
