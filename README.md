@@ -10,6 +10,7 @@ This is the code associated with the paper ["LEAD: Min-Max Optimization from a P
 }
 ```
 Video describing the paper: https://www.youtube.com/watch?v=EfwIc0GXb8E 
+
 Blogpost: https://reyhaneaskari.github.io/LEAD.html
 
 For any questions about the code please create an issue.
