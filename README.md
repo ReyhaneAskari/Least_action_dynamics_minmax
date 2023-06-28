@@ -2,11 +2,15 @@
 This is the code associated with the paper ["LEAD: Min-Max Optimization from a Physical Perspective"](https://openreview.net/forum?id=vXSsTYs6ZB). If you find this code useful please cite us:
 
 ```
-@article{hemmat2020LEAD,
-  title={LEAD: Least-Action Dynamics for Min-Max Optimization},
-  author={Hemmat, Reyhane Askari and Mitra, Amartya and Lajoie, Guillaume and Mitliagkas, Ioannis},
-  journal={arXiv preprint arXiv:2010.13846},
-  year={2020}
+@article{
+askari hemmat2023lead,
+title={{LEAD}: Min-Max Optimization from a Physical Perspective},
+author={Reyhane Askari Hemmat and Amartya Mitra and Guillaume Lajoie and Ioannis Mitliagkas},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=vXSsTYs6ZB},
+note={Featured Certification}
 }
 ```
 Video describing the paper: https://www.youtube.com/watch?v=EfwIc0GXb8E 
